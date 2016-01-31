@@ -1,0 +1,22 @@
+{
+  "name": "js-compass-backports",
+  "version": "0.1.0",
+  "description": "JS backports of some handy Compass functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benlancaster/js-compass-backports.git"
+  },
+  "keywords": [
+    "js",
+    "compass",
+    "sass",
+    "libsass"
+  ],
+  "author": "Ben Lancaster <benlanc@ster.me.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benlancaster/js-compass-backports/issues"
+  },
+  "homepage": "https://github.com/benlancaster/js-compass-backports"
+}
