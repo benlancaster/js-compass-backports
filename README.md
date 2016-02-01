@@ -14,8 +14,6 @@ Long term, you should be using [a post-processor to provide inline images and wi
 * image-height
 * inline-image
 
-Their syntax matchs the Compass equivalents (with the exception of headings, which always returns h1-6).
-
 ## Usage
 
 These functions are intended to be plugged in to libsass' experimental ```functions``` API, available since 3.0.0.
