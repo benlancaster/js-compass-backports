@@ -4,7 +4,7 @@ js-compass-backports is a tiny subset of some of the ```image-*``` functions tha
 
 ## Raison d'être
 
-These backports are not intended to, nor will never, serve as a 1:1 replacement for the whole Compass library. They were created in order to provide a more iterative approach to migrating _away_ from Compass by removing some of the pain of changing a project's whole toolset.
+These backports are not intended to, nor will ever, serve as a 1:1 replacement for the whole Compass library. They were created in order to provide a more iterative approach to migrating _away_ from Compass by removing some of the pain of changing a project's whole toolset.
 
 Long term, you should be using [a post-processor to provide inline images and width/height interpolation](https://github.com/assetsjs/postcss-assets).
 
