@@ -1,7 +1,7 @@
 var fs        = require('fs'),
     imageSize = require('image-size'),
     sass      = require('node-sass'),
-    dataUri   = require('datauri');
+    dataUri   = require('data-uri');
 
 module.exports = function (includePaths) {
 
