@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/benlancaster/js-compass-backports",
   "dependencies": {
-    "data-uri": "0.0.3",
+    "datauri": "^0.8.0",
     "image-size": "^0.4.0",
     "node-sass": "^3.4.2"
   }
